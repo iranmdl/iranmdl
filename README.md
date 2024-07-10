@@ -1,6 +1,5 @@
 # Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=iranmdl.iranmdl)
 
 ```python
 #!/usr/bin/python
@@ -29,18 +28,46 @@ me = BioinformaticsScientist()
 me.say_hi()
 ```
 
-## 🔧 Technologies & Tools
+## 👩‍💻 Technologies & Tools
 
 **Programming Languages:**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=b6d7a8)
-![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=b6d7a8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6f97cf)
+![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=6f97cf)
 
 **Workflow orchestrators:**
 
-![nextflow](https://img.shields.io/badge/Code-nextflow-informational?style=flat&logo=nextflow&logoColor=white&color=b6d7a8)
+![nextflow](https://img.shields.io/badge/Code-nextflow-informational?style=flat&logo=nextflow&logoColor=white&color=6f97cf)
 
 **Tools and Services:**
 
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=b6d7a8)
-![Singularity](https://img.shields.io/badge/Tools-Singularity-informational?style=flat&logo=singularity&logoColor=white&color=b6d7a8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6f97cf)
+![Singularity](https://img.shields.io/badge/Tools-Singularity-informational?style=flat&logo=singularity&logoColor=white&color=6f97cf)
+
+## 🧬 Bioinformatics
+
+```python
+me.siesta()
+```
+
+## 📝 Publications
+
+```python
+me.siesta()
+```
+
+<p align="left">
+  In the meantime, you can find me in 
+  <a href="https://www.linkedin.com/in/irantzuanzar/">
+    <img height="20" align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=6f97cf" alt="LinkedIn Badge" />
+  </a>
+</p>
+
+
+<p align="right">
+  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=iranmdl.iranmdl" />
+</p>
+
+
+
+
