@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**iranmdl/iranmdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=iranmdl.iranmdl)
 
-Here are some ideas to get you started:
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+import time
+
+class BioinformaticsScientist:
+
+    def __init__(self):
+        self.name = "Irantzu"
+        self.role = "Bioinformatics Scientist"
+        self.location = "Oslo, Norway"
+        self.rl_languages = ["spanish", "english", "basque"]
+
+    @staticmethod
+    def siesta():
+        print("...zzz...")
+        time.sleep(2)
+
+    def say_hi(self):
+        print("I still need to improve this README. Mañana, mañana...")
+        self.siesta()
+
+me = BioinformaticsScientist()
+me.say_hi()
+```
