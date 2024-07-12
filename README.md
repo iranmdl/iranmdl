@@ -25,7 +25,7 @@ class BioinformaticsScientist:
         time.sleep(10000)
 
     def say_hi(self):
-        print("I still need to improve this README. Mañana, mañana...")
+        print("Hi! I still need to improve this README. Mañana, mañana...")
         self.siesta()
 
 me = BioinformaticsScientist()
